@@ -6,7 +6,7 @@ Full-stack developer building clean, reliable web apps end-to-end from APIs to U
 
 - Former **Junior Full-Stack Developer @ Ilyda**
 - **BSc in Digital Systems (UniPi)** — graduating this month
-- **Spring Boot** • **React (JavaScript)** • **jQuery**
+- **Spring Boot** • **React (JavaScript)**
 - **PostgreSQL** • **Oracle** • **SQL Server**
 
 I share my art on Instagram [@niri_lo](https://instagram.com/niri_lo) 🎨
